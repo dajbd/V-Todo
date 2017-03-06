@@ -113,11 +113,11 @@ export default {
     .footer {
       background: #F0F2F3;
       .form {
-        padding: 12px 1em;
+        padding: 9px 1em;
       }
       input {
         width: 100%;
-        height: 30px;
+        height: 36px;
         font-size: 14px;
         display: block;
         border-radius: 4px;
