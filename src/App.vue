@@ -12,4 +12,10 @@ export default {
 
 <style lang="less">
   @import "~minireset.css";
+
+  html,
+  body,
+  #app {
+    height: 100%;
+  }
 </style>
