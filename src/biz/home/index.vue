@@ -54,11 +54,15 @@ export default {
 }
 </script>
 
-<style>
+<style lang="less">
   .page-home {
     .header {
+      background: #617FDE;
+      color: #fff;
       h1 {
+        padding: 0.6em 1em;
         font-size: 16px;
+        text-align: center;
       }
     }
   }
